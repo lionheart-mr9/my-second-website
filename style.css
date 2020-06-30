@@ -1,0 +1,90 @@
+body {
+    background-color: white;
+    font-family: "Trebuchet MS", arial;
+    font-size: 15px;
+    font-weight: 700;
+    word-spacing: 1px;
+    margin: 0px;
+}
+h4 {
+    text-align: center;
+    background-color: #df0174;
+    color: white;
+    border: 1px solid;
+    padding: 6px;
+    margin: 0px;
+}
+p {
+    text-align: center;
+    background-color: #f4f4f4;
+    color: red;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    margin: 0px 0px 0px 0px;
+}
+.special:nth-child(2n) {
+    background-color: rgb(175, 171, 171);
+}
+div {
+    border-bottom: 1px solid #cccccc;
+    padding: 5px 3px;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2px;
+    width: 50%;
+}
+.second-part {
+    color: #C56D01;
+}
+.thired-part {
+    color: #9A01FA;
+}
+.mobile {
+    background-color: rgb(238, 236, 236);
+    border-bottom: 1px #ecd5d2 solid;
+    padding: 6px;
+}
+.mobile:hover {
+    background-color: rgb(238, 223, 174);
+}
+.search {
+    background-color: #eeecec;
+    text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-color: #ecd5d2;
+    border-bottom-style: solid;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 2px;
+    margin: 4px 0px;
+}
+.input {
+    height: 21px;
+    width: 200px;
+    border: 2px solid #cccccc;
+}
+.search2 {
+    background-color: rgb(245, 162, 8);
+    color: white;
+    border: 1px solid #949292;
+    padding: 5px;
+}
+.search2:hover {
+    background-color: rgb(53, 53, 228);
+    color: white;
+}
+a:link {
+    color: red;
+    text-decoration: none;
+}
+.footer {
+    color: white;
+    text-align: center;
+    background-color: rgb(58, 57, 57);
+    border: 1px solid rgb(58, 57, 57);
+    padding: 8px 0px;
+}
+
